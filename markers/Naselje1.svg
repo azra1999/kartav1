@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <rect
+       style="fill:#666666;stroke:#ffffff;stroke-width:0.115955;stroke-linecap:round;paint-order:stroke fill markers"
+       id="rect403-0-0-5"
+       width="37.806149"
+       height="40.022568"
+       x="65.690224"
+       y="109.27976"
+       ry="0.95747757" />
+    <rect
+       style="fill:#666666;stroke:#ffffff;stroke-width:0.182573;stroke-linecap:round;paint-order:stroke fill markers"
+       id="rect403-0"
+       width="65.444756"
+       height="57.31789"
+       x="120.94926"
+       y="114.3"
+       ry="1.3712412" />
+    <path
+       style="fill:#666666;stroke:#ffffff;stroke-width:0.243;stroke-linecap:round;paint-order:stroke fill markers"
+       id="path241-4"
+       d="M 106.38806,63.16791 31.314486,63.660913 68.424319,-1.6012078 Z"
+       transform="matrix(1.1872245,0,0,0.84121882,69.897067,58.725607)" />
+    <rect
+       style="fill:#666666;stroke:#ffffff;stroke-width:0.115955;stroke-linecap:round;paint-order:stroke fill markers"
+       id="rect403-0-0"
+       width="37.806149"
+       height="40.022568"
+       x="203.29283"
+       y="107.61744"
+       ry="0.95747757" />
+    <path
+       style="fill:#666666;stroke:#ffffff;stroke-width:0.243;stroke-linecap:round;paint-order:stroke fill markers"
+       id="path241-4-2"
+       d="M 106.38806,63.16791 31.314486,63.660913 68.424319,-1.6012078 Z"
+       transform="matrix(0.70797735,0,0,0.41876712,174.0043,79.566307)" />
+    <path
+       style="fill:#666666;stroke:#ffffff;stroke-width:0.243;stroke-linecap:round;paint-order:stroke fill markers"
+       id="path241-4-2-5"
+       d="M 106.38806,63.16791 31.314486,63.660913 68.424319,-1.6012078 Z"
+       transform="matrix(0.70797735,0,0,0.41876712,35.847576,79.012207)" />
+  </g>
+</svg>
